@@ -1,0 +1,42 @@
+#list to group eligiblity group clearly
+
+all_list = [  'All experienced programmers', 'Anyone may apply to be a consultant.\r\nAlumni of US government-sponsored exchange programs are encouraged to\r\napply.', 'The workshop is aimed at leaders or PR\r\nspecialists of NGOs working with various minority groups, including:\r\nethnical, sexual, religious groups, refugees, women, the disabled, the\r\nelderly, as well as journalists, specializing in minority/diversity\r\nreporting.',
+ 'Qualified candidates with expert-level\r\nskills', 'Technical eligibility requirements:\r\nCompetition for the Eurasian Undergraduate Exchange Program is\r\nmerit-based and open to anyone who:\r\n- Is a citizen, national or permanent resident qualified to hold a valid\r\npassport issued by the country of Armenia, Azerbaijan, Belarus, Georgia,\r\nKazakhstan, Kyrgyzstan, Moldova, Russian Federation, Tajikistan,\r\nTurkmenistan, Ukraine, or Uzbekistan;\r\n- Is enrolled as a first-, second- or third-year full-time undergraduate\r\nstudent at the time of application at a registered academic institution\r\nin one of the 12 eligible Eurasian countries and in good academic\r\nstanding.  Third year students must be enrolled in a five-year program\r\nat their home university or institution and will be required to submit a\r\nspravka stating enrollment status and program year if selected as a\r\nsemifinalist.  Part-time students (for example, zaochno or\r\ncorrespondence students) are not eligible;\r\n- Was born between November 12, 1983 and July 1, 1987;\r\n- Submits a complete original application with two copies by the\r\napplication deadline;\r\n- Is able to begin the academic exchange program in the United States in\r\nthe summer of 2005;\r\n- Is able to receive and maintain a US J-1 visa.', 'Professional Translators of any\r\nlanguage.',  'MA graduate students, post-graduates of\r\nJournalism, International Economics, International Relations\r\ndepartments. FLEX graduates are most welcome to apply.', 'All interested and qualified candidates.', 'All eligible candidates', 'University degree in economics related\r\nfields', 'Males and females of any age', 'Training companies and qualified\r\ntrainers', 'Interested and highly quallified\r\nindividuals in all of these fields with both professional expertise and\r\npersonal characteristics ( dynamism, proven ability to get things done,\r\nability in both work in and to lead teams, who seems likely to\r\ncontribute to our work on sustainable development within the Armenia\r\nproject.', 'Suitable professional individuals or\r\nfirms', 'All interested applicants', 'All qualified candidates', 'All qualified persons', 'All capable people', 'Everyone', 'All Interested Candidates',  'Currently Ordinary Resident and Not\r\nOrdinary Resident U.S. Citizens',  'no restrictions',  'Everybody, who is interested in cross \r\ncultural development in Caucasus.',  'All those with higher education are\r\nencouraged to apply']
+
+
+american_list = [ 'The position is open to all candidates\r\nwith the relevant skills and experience.', 'US citizens or alumni of US government\r\nexchange programs.',  'All Armenian Citizens, who qualify to\r\nthe requirements', 'Applicants must hold Armenian\r\ncitizenship\r\nGrade: GL-5 \r\nPost No: 691021']
+age_32_to_50 = [ 'Males and females, 32-50 years of age']
+
+age_under35 = [  'Male or female, more than 30 years of\r\nage' 'up to 35 years young', 'Males and females, not more than 35\r\nyears of age']
+
+age24_to_40 = [  'Male or female, above 27', 'Male or Famale from 27-55 years of age', '24-35 years old.', 'Male or female between 24-40 years of\r\nage']
+
+Medical_student = [  'Management Sciences for Health is an\r\nequal opportunity employer offering employment without regard to race,\r\ncolor, religion, sex, sexual orientation, age, national origin,\r\ncitizenship, physical or mental handicap, or status as a disabled or\r\nVietnam Era veteran of the U.S. Armed Forces.', 'All medical students of the Yerevan\r\nState Medical University after Mkhitar Heratsi.']
+
+Georgia_list = [ 'Citizens of Armenia and Georgia', 'Residence & citizenship - Tbilisi,\r\nGeorgia',  'Applicants must hold Georgian\r\ncitizenship.',  'Business & Finance Consulting (BFC)\r\nGmbH, specializing in microfinance in CIS or Eastern European countries,\r\noffers a challenging job opportunity in Georgia.']
+
+Yerevan = [ 'The jobholder must be living in Yerevan.']
+
+Armenia = [  'Armenian, Diaspora and non-Armenian\r\nscholars and professionals involved in the areas of relevance for\r\neconomic, social and governance development.', 'An Armenian national, residing in\r\nArmenia.', 'Environmental NGOs of Armenia', 'Any national legally residing in\r\nArmenia. The company employs both male and female staff.']
+
+Vermont = [ 'Applicants must be US citizens willing\r\nto relocate to Vermont.']
+
+Non_Us_with_Institution = [ 'Non U.S. citizen student in good\r\nacademic standing at his/her current educational institution']
+
+
+Females_under_35 = [ 'Male or female not more than 35', 'Females up to 32 years young', 'Females up to 32 years young', 'Females under 30 y.o.',  'males and females, not more than 35']
+
+females_list = [ 'Female candidates', 'Candidates must be female.']
+
+young_lawyers = [ 'Young lawyers and advocates.']
+
+years_exp_3=[ 'At least 3 years of work experience in\r\nthe relevant field.']
+
+
+volunteers = [ 'All interested Volunteers from Vanadzor\r\nNGOs!']
+
+University_student_or_graduate= [ 'University degree in economics related\r\nfields', 'Undergraduates and all Qualified\r\nCandidates', 'MBA Students', 'Young graduates from AUA, YSU and SEUA', '- University degree\r\n- Excellent written and spoken Armenian.\r\n- Excellent written and spoken English.\r\n- Eligibility to work in Armenia',  'University students/ Recent graduates',  'Students who are currently enrolled in a\r\nsecondary school(8th or 9th grade, are born after 1 January 1989 and\r\nbefore 15 July 1990, have academic standing of "good" or better, and\r\nmeet US visa eligibility requirements are welcome to apply.', 'Pupils']
+
+CIS_countries = [ 'Applicants must come from CIS countries\r\nand be aged 17 to 30']
+
+italian_teacher = [  'Professional teachers of the Italian\r\nlanguage.', 'Teachers of the Italian language.']
